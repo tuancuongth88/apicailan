@@ -1,6 +1,6 @@
 <?php
 use Carbon\Carbon;
-class CommonOption
+class CommonStory
 {
 	
 
